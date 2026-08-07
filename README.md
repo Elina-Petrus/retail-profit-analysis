@@ -19,9 +19,9 @@ Most profitable sub-category: Copiers
 The analysis provides insights to guide inventory planning, sales strategy, and resource allocation.
 
 Files in the Repo
-superstore_profit_analysis.ipynb — Python notebook with data cleaning and analysis.
+superstore_profit_analysis.ipynb Python notebook with data cleaning and analysis.
 profit_analysis.xlsx — Aggregated profit data for Power BI visualizations.
-.gitignore — Specifies files for Git to ignore.
+.gitignore Specifies files for Git to ignore.
 How to Use
 Clone the repo:
 git clone <your-repo-link>
