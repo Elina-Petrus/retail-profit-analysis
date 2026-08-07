@@ -20,7 +20,7 @@ The analysis provides insights to guide inventory planning, sales strategy, and 
 
 Files in the Repo
 superstore_profit_analysis.ipynb Python notebook with data cleaning and analysis.
-profit_analysis.xlsx — Aggregated profit data for Power BI visualizations.
+profit_analysis.xlsx  Aggregated profit data for Power BI visualizations.
 .gitignore Specifies files for Git to ignore.
 How to Use
 Clone the repo:
